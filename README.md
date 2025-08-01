@@ -1,4 +1,12 @@
 # MindfulList.com.au
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.9+-3178c6?logo=typescript)
+![Vite](https://img.shields.io/badge/Vite-4.0+-646cff?logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0+-38bdf8?logo=tailwindcss)
+![React Router](https://img.shields.io/badge/React%20Router-v7-ea4335?logo=reactrouter)
+![Zod](https://img.shields.io/badge/Zod-3.20+-3e8e41?logo=zod)
+![GraphQL](https://img.shields.io/badge/GraphQL-API-e10098?logo=graphql)
+![ESLint](https://img.shields.io/badge/ESLint-8.0+-4b32c3?logo=eslint)
 
 A curated platform for discovering mindfulness apps, articles, and resources. Built with React, TypeScript, Vite, and TailwindCSS, MindfulList.com.au helps users find top-rated apps, read expert blog posts, and improve their wellbeing.
 
